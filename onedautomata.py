@@ -39,7 +39,7 @@ if __name__ == '__main__':
     X = 100
     Y = 50
     m = n_updates(rule,X,Y)
-    fig = plt.figure(figsize=(36*2,24*2),dpi=600)
+    fig = plt.figure(figsize=(36*2,24*2),dpi=300)
     plt.imshow(m,cmap='Greys',interpolation='nearest')
     #plt.pcolor(flipud(m), cmap='Greys')
     plt.axis('off')
