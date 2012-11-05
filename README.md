@@ -5,4 +5,4 @@ onedautomata
 
 Produces this output:
 
-![image](https://github.com/kylerbrown/onedautomata/blob/master/rule_30_size_50_imshow.png "image")
+![image](https://github.com/kylerbrown/onedautomata/raw/master/rule_30_size_50_imshow.png "image")
